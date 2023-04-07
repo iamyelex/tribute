@@ -1,38 +1,39 @@
 * {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
 }
 
 body {
-  margin: 1rem;
-  color: tomato;
+    margin: 1rem;
+    color: blueS;
+    border-color: blue;
 }
 
 .container {
-  display: flex;
-  align-items: center;
+    display: flex;
+    align-items: center;
 }
 
 .ctn-2 {
-  margin-left: 1rem;
+    margin-left: 1rem;
 }
 
 h4 {
-  margin-top: 0.5rem;
+    margin-top: 0.5rem;
 }
 
 ol {
-  margin-left: 1rem;
+    margin-left: 1rem;
 }
 
-footer{
+footer {
     text-align: center;
     position: fixed;
     bottom: 0;
     width: 100%;
 }
 
-a{
+a {
     text-decoration: none;
 }
